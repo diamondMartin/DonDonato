@@ -6,7 +6,9 @@
     version     = "1.0.0" >
 
 <!-- versionCode is optional and Android only -->
-
+<allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    
   <name>Kiharusi game</name>
 
   <description>
