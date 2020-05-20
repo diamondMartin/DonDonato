@@ -17,5 +17,5 @@
       Don Donato
   </author>
  <icon src="icon.png"/>
- 
+ <platform name="android"><preference name="loadUrlTimeoutValue" value="700000" />
 </widget>
