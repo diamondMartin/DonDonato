@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
@@ -17,6 +18,7 @@
       Don Donato
   </author>
  <icon src="icon.png"/>
- <platform name="android"><preference name="loadUrlTimeoutValue" value="700000" >
-<platform/>
+ <platform name="android">
+        <preference name="loadUrlTimeoutValue" value="700000" />
+    </platform>
 </widget>
